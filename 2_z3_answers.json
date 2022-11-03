@@ -1,0 +1,16 @@
+
+{
+    "inputs": {
+        "hello": "1",
+        "hi": "1",
+        "privet": "1",
+        "what is your name?": "2",
+        "bye": "3"
+    },
+    "answers": {
+        "1": ["Hello!", "Hi!", "Privet!"],
+        "2": ["Jonny!", "i'm Jonny."],
+        "3": ["Bye bye!", "see you!", "See you later"]
+    },
+    "err": ["I don't understand you", "write something else", "type Hello"]
+}
