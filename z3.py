@@ -2,7 +2,7 @@
 #«как тебя зовут?» –> меня зовут Анатолий
 import json
 print('Примитивный чат-бот')
-FILE_NAME = 'answers.json'
+FILE_NAME = '2_z3_answers.json'
 try: 
     f = open(FILE_NAME, 'r', encoding="utf8")
 except IOError:
